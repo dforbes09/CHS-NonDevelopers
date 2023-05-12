@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Jan 16 - 18, 2023
+- Class Date: Jan 16 - 19, 2023
 - Facilitator: @Erick and Rob
 
 ## Class Resources
